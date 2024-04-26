@@ -17,7 +17,7 @@ require (
 	golang.org/x/text v0.14.0
 	google.golang.org/grpc v1.63.2
 	gorm.io/driver/sqlite v1.5.5
-	gorm.io/gorm v1.25.9
+	gorm.io/gorm v1.25.10
 )
 
 require github.com/chenzhuoyu/iasm v0.9.1 // indirect
