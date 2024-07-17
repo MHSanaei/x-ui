@@ -13,7 +13,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.2.2
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/shirou/gopsutil/v4 v4.24.6
-	github.com/xtls/xray-core v1.8.17
+	github.com/xtls/xray-core v1.8.19
 	go.uber.org/atomic v1.11.0
 	golang.org/x/text v0.16.0
 	google.golang.org/grpc v1.65.0
@@ -57,12 +57,13 @@ require (
 	github.com/onsi/ginkgo/v2 v2.19.0 // indirect
 	github.com/pires/go-proxyproto v0.7.0 // indirect
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55 // indirect
+	github.com/quic-go/qpack v0.4.0 // indirect
 	github.com/quic-go/quic-go v0.45.1 // indirect
 	github.com/refraction-networking/utls v1.6.7 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/sagernet/sing v0.4.1 // indirect
 	github.com/sagernet/sing-shadowsocks v0.2.7 // indirect
-	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb // indirect
+	github.com/seiflotfy/cuckoofilter v0.0.0-20240715131351-a2f2c23f1771 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
 	github.com/tklauser/go-sysconf v0.3.14 // indirect
 	github.com/tklauser/numcpus v0.8.0 // indirect
